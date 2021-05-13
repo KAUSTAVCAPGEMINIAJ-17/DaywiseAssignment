@@ -1,0 +1,2 @@
+this is a cat file and a dog file thanks
+this is cat commAND Text file
