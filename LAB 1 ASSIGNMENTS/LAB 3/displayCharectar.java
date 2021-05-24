@@ -5,7 +5,7 @@ public class displayCharectar {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		File file = new File(""D:\\DaywiseAssignment\\LAB 1 ASSIGNMENTS\\LAB 3\\\file1.txt"); 
+		File file = new File("D:\\CapgeminiAJ172\\Lab Assignment JA-17\\src\\LAB3\\file1.txt"); 
         FileInputStream fileStream = new FileInputStream(file); 
         InputStreamReader input = new InputStreamReader(fileStream); 
         BufferedReader reader = new BufferedReader(input); 
