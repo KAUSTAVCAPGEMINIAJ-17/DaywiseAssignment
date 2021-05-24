@@ -1,4 +1,4 @@
-package com.cg;
+package com.capgemini.exceptionhandlinglabprograms;
 
 
 import java.util.Scanner;
