@@ -1,4 +1,4 @@
-package com.cg;
+package com.capgemini.exceptionhandlinglabprograms;
 
 public class InvalidAgeException extends Exception {
     InvalidAgeException(String s) { super(s); }
