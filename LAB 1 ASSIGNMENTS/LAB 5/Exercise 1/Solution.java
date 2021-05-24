@@ -4,9 +4,9 @@ import java.util.*;
 public class Solution {
     static void validate(int age) throws InvalidAgeException {
         if (age < 15)
-            throw new InvalidAgeException("Age is less than 15!");
+            throw new InvalidAgeException("Age is less than 15");
         else
-            System.out.println("Welcome user! Age is valid.");
+            System.out.println("Welcome user!  Your Age is valid.");
     }
 
     public static void main(String[] args) {
